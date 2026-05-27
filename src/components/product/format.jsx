@@ -1,0 +1,13 @@
+import React from 'react'
+import numeral from "numeral";
+
+// ✅ Proper React component (PascalCase)
+const Currencyformat = ({ amount }) => {
+    const formattedAmount = numeral(amount).format("$0,0.00")
+    
+    return (
+        <div>{formattedAmount}</div>
+    )
+}
+
+export default Currencyformat;

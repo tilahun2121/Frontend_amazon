@@ -1,0 +1,231 @@
+{
+  "status": "success",
+  "timestamp": "2024-01-15T10:30:00Z",
+  "categories": [
+    {
+      "id": 1,
+      "name": "jewelery",
+      "slug": "jewelery",
+      "description": "Fine jewelry and accessories for all occasions",
+      "products": [
+        {
+          "id": 101,
+          "title": "Gold Plated Necklace Set With Matching Earrings",
+          "description": "Elegant gold plated necklace set including matching earrings. Features intricate floral design with cubic zirconia stones. Hypoallergenic and tarnish resistant. Perfect for weddings, parties, and formal events. Comes in a beautiful gift box.",
+          "price": 49.99,
+          "original_price": 79.99,
+          "category": "jewelery",
+          "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2026/Luxury/BTF/VC_jewelry_desk_1x._SY116_CB786094703_.jpg",
+    
+          "rating": 4.5,
+          "stock": 45,
+          "brand": "GlamourGems"
+        },
+        {
+          "id": 102,
+          "title": "Sterling Silver Diamond Cut Wedding Ring",
+          "description": "925 sterling silver ring with diamond cut finish. Modern design with comfort fit band. Width: 4mm. Available in sizes 5-10. Lifetime shine guarantee. Engraving service available at extra cost.",
+          "price": 89.99,
+          "original_price": 129.99,
+          "category": "jewelery",
+          "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500&auto=format",
+          "rating": 4.8,
+          "stock": 28,
+          "brand": "LuxuryLane"
+        },
+        {
+          "id": 103,
+          "title": "Freshwater Pearl Drop Earrings 14k Gold",
+          "description": "Beautiful freshwater pearl drop earrings set in 14k gold. Each pearl is 8-9mm with natural luster. Secure butterfly closure. Includes authenticity card and care instructions. Elegant design for bridal wear and special occasions.",
+          "price": 129.99,
+          "original_price": 189.99,
+          "category": "jewelery",
+          "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500&auto=format",
+          "rating": 4.7,
+          "stock": 15,
+          "brand": "ElegantPearls"
+        },
+        {
+          "id": 104,
+          "title": "Men's Stainless Steel Chain Bracelet",
+          "description": "Heavy duty stainless steel chain bracelet for men. Hypoallergenic and waterproof. Length: 8 inches with adjustable extender. Modern masculine design with magnetic clasp. Perfect for daily wear or gifting.",
+          "price": 34.99,
+          "original_price": 49.99,
+          "category": "jewelery",
+          "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=500&auto=format",
+          "rating": 4.3,
+          "stock": 67,
+          "brand": "SteelForce"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "men's clothing",
+      "slug": "mens-clothing",
+      "description": "Latest trends in men's fashion and apparel",
+      "products": [
+        {
+          "id": 201,
+          "title": "Premium Cotton Casual Slim Fit T-Shirt",
+          "description": "100% combed cotton slim fit t-shirt. Breathable and soft fabric. Available in black, navy, grey, and white. Crew neck design with double stitching on sleeves. Pre-shrunk to maintain size after washing. Perfect for casual wear and layering.",
+          "price": 24.99,
+          "original_price": 34.99,
+          "category": "men's clothing",
+          "image": "https://m.media-amazon.com/images/I/51wDsZxtTLL._AC_SY200_.jpg",
+          "rating": 4.4,
+          "stock": 128,
+          "brand": "UrbanThreads"
+        },
+        {
+          "id": 202,
+          "title": "Classic Straight Leg Denim Jeans Blue",
+          "description": "Classic straight leg jeans made from durable denim. 98% cotton, 2% elastane for comfort fit. Five pocket styling with button closure. Medium wash with slight fading. Machine washable. Available in sizes 28 to 40 waist.",
+          "price": 59.99,
+          "original_price": 79.99,
+          "category": "men's clothing",
+          "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500&auto=format",
+          "rating": 4.5,
+          "stock": 92,
+          "brand": "DenimCo"
+        },
+        {
+          "id": 203,
+          "title": "Wool Blend Formal Business Suit Jacket",
+          "description": "Professional two-button suit jacket in charcoal grey. 70% wool, 30% polyester blend. Fully lined with inner pockets. Notch lapel with flap pockets. Regular fit suitable for office and formal events. Dry clean only.",
+          "price": 189.99,
+          "original_price": 249.99,
+          "category": "men's clothing",
+          "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=500&auto=format",
+          "rating": 4.6,
+          "stock": 34,
+          "brand": "ExecutiveStyle"
+        },
+        {
+          "id": 204,
+          "title": "Athletic Running Shorts With Zip Pocket",
+          "description": "Lightweight athletic running shorts with built-in brief. Moisture-wicking fabric keeps you dry. Deep zip pocket for keys and phone. Elastic waistband with drawstring. 5-inch inseam. Reflective details for night safety.",
+          "price": 29.99,
+          "original_price": 39.99,
+          "category": "men's clothing",
+          "image": "https://images-na.ssl-images-amazon.com/images/G/01/flips/2026/Fashion/Homepage/26Flips_Fashion_Spring_16586_GW-HP_DQC_SW_1X_186x116._SY116_CB772707832_.jpg",
+          "rating": 4.3,
+          "stock": 156,
+          "brand": "ActiveGear"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "women's clothing",
+      "slug": "womens-clothing",
+      "description": "Trendy and comfortable clothing for women",
+      "products": [
+        {
+          "id": 301,
+          "title": "Bohemian Floral Print Maxi Dress",
+          "description": "Beautiful bohemian style maxi dress with all-over floral print. Made from soft rayon fabric. Features adjustable spaghetti straps and elastic waistband. Side pockets included. Length: 54 inches. Perfect for summer parties, beach, and casual outings.",
+          "price": 49.99,
+          "original_price": 69.99,
+          "category": "women's clothing",
+          "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=500&auto=format",
+          "rating": 4.7,
+          "stock": 73,
+          "brand": "ChicStyles"
+        },
+        {
+          "id": 302,
+          "title": "High Waist Yoga Leggings With Pockets",
+          "description": "Buttery soft high waist yoga leggings with side pockets. Squat-proof material, non-see-through. Moisture-wicking and four-way stretch fabric. Wide tummy control waistband. Available in black, navy, burgundy, and grey. Sizes XS to XL.",
+          "price": 39.99,
+          "original_price": 54.99,
+          "category": "women's clothing",
+          "image": "https://m.media-amazon.com/images/I/51FbAdOJGaL._AC_SY200_.jpg",
+          "rating": 4.8,
+          "stock": 215,
+          "brand": "ActiveWear"
+        },
+        {
+          "id": 303,
+          "title": "Silk Blend Work Blouse With Tie Neck",
+          "description": "Elegant silk blend blouse with feminine tie neck detail. 80% polyester, 20% silk. Breathable and wrinkle-resistant fabric. Long sleeves with button cuffs. Perfect for office wear, interviews, and professional settings. Machine washable gentle cycle.",
+          "price": 44.99,
+          "original_price": 64.99,
+          "category": "women's clothing",
+    "image": "https://images-na.ssl-images-amazon.com/images/G/01/DiscoTec/2026/Luxury/BTF/Neutrals_Dresses_1x_DESK._SY116_CB788298433_.jpg",
+          "rating": 4.5,
+          "stock": 58,
+          "brand": "SilkRoad"
+        },
+        {
+          "id": 304,
+          "title": "Winter Cashmere Blend Cardigan Sweater",
+          "description": "Soft and warm cardigan in a cashmere blend (10% cashmere, 90% acrylic). Open front design with ribbed cuffs and hem. Hip-length cut. Perfect layering piece for fall and winter. Available in camel, cream, black, and grey.",
+          "price": 69.99,
+          "original_price": 99.99,
+          "category": "women's clothing",
+          "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=500&auto=format",
+          "rating": 4.6,
+          "stock": 42,
+          "brand": "CozyChic"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "electronics",
+      "slug": "electronics",
+      "description": "Latest gadgets and electronic devices",
+      "products": [
+        {
+          "id": 401,
+          "title": "Wireless Bluetooth Over-Ear Headphones With Noise Cancellation",
+          "description": "Premium wireless headphones with active noise cancellation. 40mm drivers for rich sound quality. 30 hours of playtime with quick charge feature. Includes carrying case and audio cable. Bluetooth 5.0 connectivity. Foldable design for travel.",
+          "price": 89.99,
+          "original_price": 149.99,
+          "category": "electronics",
+          "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format",
+          "rating": 4.6,
+          "stock": 87,
+          "brand": "AudioTech"
+        },
+        {
+          "id": 402,
+          "title": "Fitness Tracker Smart Watch With Heart Rate Monitor",
+          "description": "Advanced fitness tracker with 1.3-inch AMOLED display. Tracks heart rate, steps, calories, and sleep quality. 20 sport modes with automatic recognition. 7-day battery life. Water resistant up to 50 meters. Compatible with iOS and Android.",
+          "price": 79.99,
+          "original_price": 119.99,
+          "category": "electronics",
+          "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500&auto=format",
+          "rating": 4.4,
+          "stock": 112,
+          "brand": "TechWear"
+        },
+        {
+          "id": 403,
+          "title": "20000mAh Portable Power Bank Fast Charging",
+          "description": "High capacity 20000mAh portable charger with dual USB output. Includes USB-C input for charging the power bank itself. Smart charging technology detects and optimizes current for connected devices. LED battery indicator. Safe protection against overcharging.",
+          "price": 39.99,
+          "original_price": 59.99,
+          "category": "electronics",
+          "image": "https://m.media-amazon.com/images/I/4181fAP1xAL._AC_SY145_.jpg",
+          "rating": 4.5,
+          "stock": 203,
+          "brand": "PowerUp"
+        },
+        {
+          "id": 404,
+          "title": "4K Ultra HD Action Camera Waterproof",
+          "description": "Waterproof action camera recording in 4K at 30fps. Includes waterproof case up to 30 meters. 170-degree wide angle lens. Built-in WiFi for easy sharing. Comes with multiple mounts: helmet, bike, and chest strap. Includes two rechargeable batteries.",
+          "price": 129.99,
+          "original_price": 179.99,
+          "category": "electronics",
+          "image": "https://images.unsplash.com/photo-1524143986875-3b098d78b363?w=500&auto=format",
+          "rating": 4.3,
+          "stock": 56,
+          "brand": "AdventureCam"
+        }
+      ]
+    }
+  ]
+}
